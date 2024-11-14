@@ -43,6 +43,14 @@
 - `alt-3` view 3d render
 - add fill layer
 
-## PCB-art
+## Additional Info
 
 - https://www.youtube.com/watch?v=Stp5BqUI48U Kliment's PCB art for terrified beginners workshop
+
+### useful plugins
+
+- `interactive html BOM` for generating Interactive Bill Of Materials
+- `Fabrication-toolkit`
+- `KiKit` for panelization and other automatization
+- `KiBuzzard` for fancy-ish Text
+- `Bulk hide silkscreen designators` get rid off annoying silkscreen
